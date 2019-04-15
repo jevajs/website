@@ -6,4 +6,4 @@ This is pretty much a **[FAQ](https://www.google.com/search?q=faq+definition)** 
 This will also be used for other things also, so get ready.
 
 > Current Articles: 
- * [Altering File Extensions.](/file_extensions)
+ * [Altering File Extensions.](file_extensions)
