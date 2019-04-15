@@ -7,7 +7,7 @@
  > In almost every video, we create resources for the server. Most viewers expirience the issue of `couldn't load <resourcename>`. Here's how to fix that.
  > # FiveM - How to Fix Couldn't Load Resource - YouTube ![YouTube](https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico)
  > [![FiveM - How to Fix Couldn't Load Resource](http://img.youtube.com/vi/cPJzei0cPFU/0.jpg)](http://www.youtube.com/watch?v=cPJzei0cPFU) 
- - *Make sure to watch this video as it's a visual fix.*
+  - *Make sure to watch this video as it's a visual fix.*
 ## Diagnosis
  1. Open up the resource's folder
  2. Check the root of the resource's folder to see if the `__resource.lua` is present. 
