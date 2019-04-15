@@ -2,6 +2,7 @@
 [logo]: https://raw.githubusercontent.com/jevajs/jeva-screen/master/main.png
 # Altering File Extensions.
 ![logo][logo]
+
  Written by [Zua][zua]
  > Usually in every scripting video we are required to create files. Each of these files has to have a file type like `.lua, .html, .jpg, etc.` A lot of people seem trouble following the steps in creating a file with a following file type. So let's get right into it.
  
