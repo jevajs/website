@@ -8,3 +8,4 @@ This will also be used for other things also, so get ready.
 > Current Articles: 
  * [Altering File Extensions.](file-extensions)
  * [Couldn't Load Resource.](couldn't-load-resource)
+ * [Server Starter Closing Immediately](server-starter-closing-immediately)
