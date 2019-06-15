@@ -23,7 +23,7 @@ That is a horrible diagram of your directory.
 
 7. Go to [server.cfg site](http://docs.fivem.net/server-manual/setting-up-a-server/#server-cfg) and copy the `server.cfg example`
     - Or you can copy this `server.cfg` template:
-    ```yaml
+```yaml
     # You probably don't want to change these!
     # Only change them if you're using a server with multiple network interfaces.
     endpoint_add_tcp "0.0.0.0:30120"
@@ -92,7 +92,7 @@ That is a horrible diagram of your directory.
 
     # License key for your server (https://keymaster.fivem.net)
     sv_licenseKey changeme
-    ```
+```
 8. Create a new file (with notepad if you want) paste the `server.cfg` contents from above.
 9. Save the file as `server.cfg` in the `cfx-server-data-master`, in the `server` folder we made
 10. Go to [keymaster for fivem](https://keymaster.fivem.net) and login/create an account, then create a new key. **copy the key**
