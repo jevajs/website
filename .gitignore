@@ -1,0 +1,4 @@
+#ignore the data directory
+data/
+#ignore all json files
+*.json
